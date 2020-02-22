@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This is the week 5 individual (weekend) project from Makers Academy. Please see the [Challenge Instructions](./Challenge_Instructions.md) markdown file for more information.
+This is the week 5 individual (weekend) project from Makers Academy. Please see the [Challenge Instructions](./miscellany/docs/Challenge_Instructions.md) markdown file for more information.
 This project is a ten-pin bowling scorecard website.
 
 ## Build status
