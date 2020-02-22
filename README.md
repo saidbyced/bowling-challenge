@@ -60,7 +60,7 @@ I would like to see my whole game listed out, frame by frame.
 
 As a maths-challenged player
 So that I can see my total score as it grows
-I would like to see a running total under each frame
+I would like to see a running total under each frame.
 ```
 
 Extras:
