@@ -20,17 +20,19 @@ README created. User stories complete, starting on tests.
 7. A spare is when a player knocks down all ten pins over the two bowls of their frame.
 8. When bowling a strike, the player does not get a second bowl for that frame.
 9. The third bowl on the tenth frame only happens if a spare or strike happens in the first two bowls.
-10. To bowl a 'perfect game' you must bowl total of 12 strikes - this includes three strikes in the 10th frame.
-11. A frame is worth the pins knocked down during those bowl/s unless a strike or spare happens.
-12. A strike is worth 10 points plus the next two bowls.
-13. A spare is worth 10 points plus the next one bowl.
+10. A frame is worth the pins knocked down during those bowl/s unless a strike or spare happens.
+11. A strike is worth 10 points plus the next two bowls.
+12. A spare is worth 10 points plus the next one bowl.
 
-Extra:
+Assumptions for HARD MODE
+
+13. To bowl a 'perfect game' you must bowl total of 12 strikes - this includes three strikes in the 10th frame.
 14. You can have up to 8 players on one lane.
 15. A split is when, after the first bowl of the frame, the very front pin (pin '1') is knocked down but two or more non-adjacent pins (or groups of pins) are left standing.
 16. A circled score (or a score with a small 's' beside it) shows when a split has happened.
 17. A foul is where a player's foot passes the beginning of the bowling lane area.
 18. A 'F' is put on the scorecard if a player fouls and the score for that bowl is zero.
+19. Competitions often have judges who can alter scores.
 
 
 ## User Stories
@@ -84,7 +86,7 @@ So that I can ensure I don't incorrectly count fouls
 I would like for a bowl's value to be zero when I enter a foul, regardless of how many pins I knock down.
 ```
 
-Double extra:
+Double extras:
 ```
 As a judge
 So that I can correct mistakes and track fouls in scores
